@@ -279,6 +279,7 @@ A full-featured banking application built in Java, with a Swing-based desktop in
 <br/>
 
 <!-- ============== CONTRIBUTION SNAKE ============== -->
+<!--
 <div align="center">
 
 ## 🐍 <span style="color:#7C3AED;">Contribution Snake</span>
