@@ -15,7 +15,7 @@
 </table>
 <td align="center"><a href="https://buildwithyashh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
 <td align="center"><a href="https://www.linkedin.com/in/kandhimallayashwanth/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
-<td align="center"><a href="mailto:kandhimallaYashwanth7@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
+<td align="center"><a href="mailto:kandhimallayashwanth7@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
 <td align="center"><a href="https://github.com/KandhimallaYashwanth"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a></td>
 </tr>
 </table>
@@ -312,7 +312,7 @@ A full-featured banking application built in Java, with a Swing-based desktop in
 
 <td align="center"><a href="https://buildwithyashh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
 <td align="center"><a href="https://www.linkedin.com/in/kandhimallayashwanth/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
-<td align="center"><a href="mailto:kandhimallaYashwanth7@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
+<td align="center"><a href="mailto:kandhimallayashwanth7@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
 <td align="center"><a href="https://github.com/KandhimallaYashwanth"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a></td>
 
 </div>
